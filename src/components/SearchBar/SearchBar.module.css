@@ -1,0 +1,18 @@
+.agregar {
+  color: rgb(0, 0, 0);
+  background: rgba(75, 0, 250, 0.651);
+  font-size: 15px;
+  line-height: 8px;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: Georgia, serif;
+  border: 2px solid;
+  display: inline-flex;
+}
+.agregar:hover {
+  background: white;
+}
+
+.busqueda {
+  margin-right: 5px;
+}

@@ -1,0 +1,62 @@
+.card {
+  color: rgb(255, 255, 255);
+  background-color: rgba(75, 0, 250, 0.651);
+  border: 1px solid;
+  border-radius: 30px;
+  box-shadow: 0px 1px 50px 18px #000000;
+  padding: 10px;
+  margin: 10px;
+  font-family: "Brush Script MT", cursive;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.datos {
+  width: 50%;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0px 1px 50px 4px black;
+}
+
+.border {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.letra {
+  color: #ffffff;
+  background-color: #000000c4;
+  display: inline-block;
+  font-weight: 500;
+  text-decoration: underline solid rgb(255, 255, 255);
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: capitalize;
+  position: relative;
+  top: 25px;
+  border-radius: 1px;
+}
+
+.boton {
+  background: red;
+  color: white;
+  border-color: red;
+  display: inline-block;
+  position: relative;
+  border-radius: 30px;
+}
+.boton:hover {
+  background: white;
+  color: red;
+  border-color: white;
+}
+
+.foto {
+  border-radius: 20px;
+}

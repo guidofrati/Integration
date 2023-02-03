@@ -1,0 +1,8 @@
+.navegador {
+  display: flex;
+  justify-content: flex-end;
+  border: 100%;
+  border-radius: 5px;
+  background-color: blueviolet;
+  padding: 20px;
+}

@@ -1,5 +1,17 @@
+html,
+body,
+#root,
+.App {
+  min-height: 100vh;
+}
+
 .App {
   text-align: center;
+  background-image: url(./fondo/rickandmorty.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {

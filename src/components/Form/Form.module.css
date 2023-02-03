@@ -1,0 +1,21 @@
+.formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  height: 50vh;
+  background-color: grey;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 80%;
+}
+
+.foropad {
+  padding: 20px;
+}
